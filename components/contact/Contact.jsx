@@ -25,10 +25,10 @@ export default function Contact() {
     e.preventDefault();
 
     emailjs.send(
-      "service_mqy145w",
-      "template_s7yqjp3",
+      process.env.SERVICE_ID,
+      process.env.TEMPLATE_ID,
       formData,
-      "bA3ZqXtljlRAYG4Mc"
+      process.env.PUBLIC_KEY
     ).then(
       (result) => {
         alert("Message sent successfully!");
