@@ -1,0 +1,45 @@
+[
+  {
+    "category": "Backend",
+    "tools": [
+      { "name": "Flask", "icon": "SiFlask", "color": null },
+      { "name": "Express.js", "icon": "SiExpress", "color": null },
+      { "name": "Node.js", "icon": "FaNodeJs", "color": "#339933" },
+      { "name": "Python", "icon": "FaPython", "color": "#3776AB" },
+      { "name": "PostgreSQL", "icon": "SiPostgresql", "color": "#336791" },
+      { "name": "MongoDB", "icon": "SiMongodb", "color": "#47A248" },
+      { "name": "Redis", "icon": "SiRedis", "color": "#DC382D" }
+    ]
+  },
+  {
+    "category": "Frontend",
+    "tools": [
+      { "name": "React", "icon": "FaReact", "color": "#61DAFB" },
+      { "name": "Next.js", "icon": "SiNextdotjs", "color": null }
+    ]
+  },
+  {
+    "category": "DevOps",
+    "tools": [
+      { "name": "Docker", "icon": "FaDocker", "color": "#2496ED" },
+      { "name": "Linux", "icon": "FaLinux", "color": "#FCC624" },
+      { "name": "Datadog", "icon": "SiDatadog", "color": "#4C6EF5" }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "tools": [
+      { "name": "C", "icon": "SiC", "color": "#A8B9CC" },
+      { "name": "JavaScript", "icon": "SiJavascript", "color": "#F7DF1E" },
+      { "name": "TypeScript", "icon": "SiTypescript", "color": "#3178C6" }
+    ]
+  },
+  {
+    "category": "Developer Tools",
+    "tools": [
+      { "name": "Git", "icon": "FaGitAlt", "color": "#F05032" },
+      { "name": "Postman", "icon": "SiPostman", "color": "#FF6C37" },
+      { "name": "VS Code", "icon": "SiVisualstudiocode", "color": "#007ACC" }
+    ]
+  }
+]

@@ -5,6 +5,21 @@
   --foreground: #171717;
 }
 
+@theme {
+  --color-primary: #D3E97A;
+  --color-neutral_white: #FFFFFF;
+  --color-neutral_black: #000000;
+  --color-dark_gray: #484848;
+  --color-off_white: #C7C7C7;
+  --color-b_doom: #0A0A0A;
+  --color-b_gray: #1A1A1A;
+  --color-icon_bg: #222222;
+  --font-orbitron: "Orbitron";
+  --font-bebas: "Bebas Neue", sans-serif;
+  --font-inter: "Inter", sans-serif;
+  --font-manrope: "Manrope", sans-serif;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
